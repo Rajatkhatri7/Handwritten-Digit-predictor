@@ -2,7 +2,9 @@
 This is  visual representation of  Neural Network classification of hand written digits. 
 
 ## Introduction 
+
 Neural networks are core of deeplearning.Unlike machine learniing where we have to provide structured data to the model ,this is not the case in neural networks . There are layers of nodes called Neurons which takes the input , no need of preprocessing, and gives their output to the neuron of other layer so each layer outputs the more and more accurate output so leads to better prediction.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 Streamlit is a python library used to deploy machine learning on web app easily. Visit https://www.streamlit.io/ to explore it.
 Its very useful and easy to use.
